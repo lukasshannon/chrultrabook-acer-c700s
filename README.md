@@ -4,7 +4,6 @@
 This documents the process to convert an Acer C720 or C740 Chromebook into what is known as a "Chrultrabook" - an unlocked Chromebook flashed with custom firmware (UEFI BIOS ROM) to allow installation of a non-Google OS (Windows/Linux).
  
 ## Resources
-Backups are included here, but using the latest versions is recommended.
  
 ### MrChromebox
 MrChromebox is the author and maintainer of the automatic ROM flashing script that makes this process so accessible. The script is made to be run from inside of the stock ChromeOS terminal, after the OEM-unlocked Chrombook is booted in Developer mode to enable shell access.
